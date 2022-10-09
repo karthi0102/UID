@@ -1,0 +1,16 @@
+.footer-container{
+    background-color: #0E8581;
+    color: white;
+    text-align: center;
+    padding: 20px 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.footer-container > .logo{
+    color:white;
+    font-weight: bolder;
+    
+}

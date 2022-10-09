@@ -1,0 +1,24 @@
+.feature-container{
+    width: 100%;
+}
+.feature-container >  p{
+    background-color: #0E8581;
+    text-align: center;
+    padding: 10px;
+    font-size: 24px;
+}
+.feature-container > img{
+    width: 100%;
+    object-fit: cover;
+}
+
+.feature-content{
+    position: absolute;
+    top:160vh;
+    left: 70vh;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

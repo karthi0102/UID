@@ -1,0 +1,9 @@
+.text2-container{
+    height: 40px;
+    width: 100%;
+    background-color: white;
+    color:#0E8581;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
